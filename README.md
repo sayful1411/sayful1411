@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Md Sayful Islam
+## Hi there 👋, my name is Md Sayful Islam
 #### A Professional Laravel Developer and WordPress Expert
 <img src="https://i.ibb.co/C1pjyRB/developer-cover.png" alt="developer-cover" border="0">
 
-Hey! My name is Md. Sayful Islam. I am a professional and skilled web developer. I have been learning web development for more than two years. I am skilled in html5, css3, javascript (basic), jquery (basic), bootstrap5, PSD to Html, WordPress, Php, and Laravel. Every website I make will be responsive and load fast. I will provide my services with 100% satisfaction to my client. If you want to know more feel free to contact me.
+Hey! My name is Md. Sayful Islam. I am a professional and skilled web developer. I have been learning web development for more than two years. I am experienced in html5, css3, javascript (basic), jquery (basic), bootstrap5, PSD to Html, WordPress, Php, and Laravel. Every website I make will be responsive and load fast. I will provide my services with 100% satisfaction to my client if you'd like to know more feel free to contact me.
 
-Skills: PHP / LARAVEL / JS / HTML / CSS / BOOTSTRAP / WORDPRESS
+Skills: PHP / LARAVEL / JS / HTML / CSS / BOOTSTRAP / WordPress
 
 - 🔭 I’m currently working on ARSoftHost 
 - 🌱 I’m currently learning Laravel 
